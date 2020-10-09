@@ -1,0 +1,7 @@
+vk-api
+Flask
+gunicorn
+flask-SQLAlchemy
+python-dotenv
+psycopg2
+APScheduler
