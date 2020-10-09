@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #f2f6e9;
+}
+
+.container {
+  margin-top: 1rem;
+}
+
+h {
+	font-size: 1.5rem;
+}
+
+svg {
+    width: 2rem;
+    height: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.small-svg {
+	width: 1.5rem;
+	height: auto;
+	margin-bottom: 0.2rem;
+}
+
+form {
+	margin-top: 1rem;
+}
